@@ -11,4 +11,4 @@
 Все тексты уже переведены на русский язык. Просто добавьте свои видео и настройте категории под ваши нужды.
 
 
-`"tags": ["landing", "brutalist", "developer", "animations"]`
+`"tags": ["react", "typescript", "tailwindcss", "vite", "brutalist", "youtube", "video", "talks", "conference", "developer", "landing"]`
