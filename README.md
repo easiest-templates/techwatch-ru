@@ -10,17 +10,5 @@
 
 Все тексты уже переведены на русский язык. Просто добавьте свои видео и настройте категории под ваши нужды.
 
-## Установка
-
-```bash
-npm install
-npm run dev
-```
-
-## Технологии
-
-- React + TypeScript
-- Tailwind CSS
-- Vite
 
 `"tags": ["landing", "brutalist", "developer", "animations"]`
